@@ -1,0 +1,4 @@
+#import egesznevesfeladat
+#import neveseletkorosfeladat
+#import szamosfeladat1
+import koratmerosfeladat
